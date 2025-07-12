@@ -15,16 +15,16 @@ Busenga is a mission-driven tech company focused on systems design, equity, and 
 - `busenga-backend`: Secure API and database (FastAPI + PostgreSQL)
 - `priv-core`: Modular access control system powering role-based logic across all platforms
 
-### ✍️ TodaysThoughts.com
+### ✍️ [TodaysThoughts.com](https://todaysthoughts.com)
 > A values-driven publishing platform for evolving perspectives and thoughtful public discourse.
 
 - `todays-thoughts-dot-com`: React-based content site
 - `todays-thoughts-backend`: FastAPI backend supporting tools like The Pendulum Project and contributor rewards
 
-### 🪪 BridgetPlant.com
+### 🪪 [BridgetPlant.com](https://bridgetplant.com)
 > Portfolio for Busenga’s founder, showcasing engineering, leadership, and AI projects.
 
-### 🧵 DenAndDagger.com
+### 🧵 [DenAndDagger.com](https://denanddagger.com)
 > A full-stack creative e-commerce platform for cosplay costume design and wearable art.
 
 ---
